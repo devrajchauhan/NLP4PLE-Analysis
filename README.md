@@ -27,15 +27,7 @@ This project focuses on applying Natural Language Processing (NLP) techniques to
 - Application of sentiment analysis to gauge the tone and emotional content of the abstracts.
 
 ## Dataset
-The dataset consists of 825 entries from the Australasian Journal of Educational Technology. It includes the following columns:
-- **Authors**: Names of the authors
-- **Title**: Title of the research paper
-- **Year**: Publication year
-- **Journal**: Name of the journal
-- **Abstract**: Abstract of the research paper
-- **Link**: URL to the paper
-- **Affiliations**: Author affiliations
-
+The original dataset contained over 50,000 research papers, which were carefully filtered and processed to create this focused collection specifically relevant to educational technology research.
 The abstracts are preprocessed to remove noise and prepare them for analysis.
 
 ## Dependencies
